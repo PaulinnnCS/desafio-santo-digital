@@ -1,4 +1,4 @@
-n = 255
+n = 27
 
 def fib (n):
     if n == 1 or n == 2:
@@ -14,6 +14,5 @@ if tam > 1:
 else:
     result = f"{nFib[tam - 1]}"
 
-print(nFib)
 print(result)   
 
